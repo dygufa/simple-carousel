@@ -1,6 +1,6 @@
 # Simple Carousel
 
-The goal of this plugin is not generate the interface for the carousel, it's just provide the back structure. In this way, the developer have more facility do adapt the plugin for his necessities.
+The purpose of this plugin isn't generate any interface for the carousel, it's just provide the back structure. In this way, the dev has more facility to adapt the plugin for his necessities.
 
 ## Options
 
